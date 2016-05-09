@@ -5,3 +5,4 @@ Directory Search for Contacts using the salesforce lightning component framework
 2) We'll check in all wire frames also into this branch
 
 Instructions for check-out and setting up project -
+1. Local system will use ant build to move changes to the developer sandboxes.
